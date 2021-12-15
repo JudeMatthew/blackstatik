@@ -1,3 +1,18 @@
 body{
-    background-color: blue;
+    background-color: white;
 }
+.contentbox {
+    display: table-cell;
+    border: 100px solid rgba(255, 0, 0, 0.5);
+    border-radius: 100px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    width: 33%;
+    background-color: rgba(255, 0, 0, 0.5);}
+
+    .biocontentbox {
+        text-align: center;
+        border: 150px solid rgba(25, 0, 255, 0.5);
+        margin: 10px 0px 10px 0px;
+
+    }
